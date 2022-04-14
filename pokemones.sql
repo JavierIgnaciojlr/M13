@@ -52,3 +52,4 @@ FROM mis_pokemones
 LEFT OUTER JOIN pokemones
 ON mis_pokemones.pokedex = pokedex.pokedex;
 
+
